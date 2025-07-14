@@ -9,7 +9,7 @@ This is my solution to the [QR code component challenge](https://www.frontendmen
 ## 🔗 Links
 
 - Solution URL: [https://github.com/your-username/qr-code-component](https://github.com/your-username/qr-code-component)
-- Live Site URL: [https://your-username.github.io/qr-code-component](https://your-username.github.io/qr-code-component)
+- Live Site URL: [https://telmomanduco.github.io/qr-code-component/](https://telmomanduco.github.io/qr-code-component/)
 
 ## 🚀 Built with
 
